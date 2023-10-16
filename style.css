@@ -4,7 +4,7 @@ body {
   background-color: whitesmoke;
 }
 p{
-  font-size:16pt;
+  font-size:12pt;
 }
 .left1, .left2{
   float:left;
@@ -49,7 +49,7 @@ footer {
 }
 @media (min-width:320px) and (max-width:480px){
   p{
-    font-size:12pt;
+    font-size:8pt;
   }
   .main{
     max-width: 500px;
