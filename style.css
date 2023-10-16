@@ -3,6 +3,9 @@ body {
   margin: 50px 50px 0 50px;
   background-color: whitesmoke;
 }
+p{
+  font-size:16pt;
+}
 .left1, .left2{
   float:left;
 }
@@ -45,6 +48,9 @@ footer {
   border: solid black 5px;
 }
 @media (min-width:320px) and (max-width:480px){
+  p{
+    font-size:12pt;
+  }
   .main{
     max-width: 500px;
     margin: auto;
