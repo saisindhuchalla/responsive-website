@@ -44,7 +44,7 @@ footer {
 .s1, .s3, .s4{
   border: solid black 5px;
 }
-@media (max-width:680px){
+@media (min-width:320px) and (max-width:480px){
   .main{
     max-width: 500px;
     margin: auto;
