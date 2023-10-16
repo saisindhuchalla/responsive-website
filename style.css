@@ -49,7 +49,7 @@ footer {
 }
 @media (min-width:320px) and (max-width:480px){
   p{
-    font-size:8pt;
+    font-size:4pt;
   }
   .main{
     max-width: 500px;
